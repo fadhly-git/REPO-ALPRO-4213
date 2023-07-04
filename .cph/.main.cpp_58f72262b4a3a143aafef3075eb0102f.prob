@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/fadhlyyy/Documents/alro/main.cpp","tests":[{"id":1687320503541,"input":"polygon\nsepeda gunung\n2011\n2.000.000","output":"merk : polygon\ntype : sepeda gunung"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/fadhlyyy/Documents/alro/main.cpp","group":"local","local":true}
