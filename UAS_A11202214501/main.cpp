@@ -51,7 +51,7 @@ struct mahasiswa
         if (n <=1)
             return ;
         //lakukan iterasi untuk memindahkan elemnt terbsear ke akhir
-        for(ll i = 0; i < n; ++i){
+        for(ll i = 0; i < n-1; ++i){
             if(arr[i] > arr[i+1])
                 swapScore(&arr[i], &arr[i+1]);
         }
