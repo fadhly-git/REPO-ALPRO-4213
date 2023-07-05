@@ -1,0 +1,14 @@
+Big O (O) adalah representasi matematis yang digunakan untuk menggambarkan kompleksitas waktu atau ruang dari sebuah algoritma. Big O digunakan untuk memberikan estimasi atas seberapa efisien atau lambat sebuah algoritma berjalan saat ukuran masukan (misalnya ukuran array) meningkat.
+
+Big O memberikan batas atas (worst-case atau upper bound) terhadap waktu eksekusi sebuah algoritma. Ini memberikan pandangan umum tentang bagaimana waktu eksekusi algoritma berubah dengan pertambahan ukuran masukan.
+
+Pada notasi Big O, kompleksitas waktu dinyatakan dalam bentuk O(f(n)), di mana f(n) adalah fungsi yang mewakili jumlah operasi yang dilakukan oleh algoritma tergantung pada ukuran masukan (n). Beberapa contoh umum dari notasi Big O adalah O(1), O(n), O(n^2), O(log n), dan lain-lain.
+
+Berikut adalah beberapa contoh kompleksitas waktu yang sering digunakan dalam analisis algoritma:
+
+O(1): Konstanta. Algoritma memiliki waktu eksekusi konstan, tidak tergantung pada ukuran masukan.
+O(n): Linear. Waktu eksekusi algoritma tumbuh secara linier dengan ukuran masukan.
+O(n^2): Kuadratik. Waktu eksekusi algoritma tumbuh secara kuadratik dengan ukuran masukan.
+O(log n): Logaritmik. Waktu eksekusi algoritma tumbuh secara logaritmik dengan ukuran masukan.
+O(n log n): N log N. Waktu eksekusi algoritma tumbuh dengan kompleksitas yang lebih tinggi dari linier tetapi lebih rendah daripada kuadratik.
+Notasi Big O membantu kita membandingkan dan memprediksi efisiensi relatif dari algoritma yang berbeda. Dalam praktiknya, kita ingin menggunakan algoritma dengan kompleksitas waktu yang lebih rendah untuk menyelesaikan tugas dengan ukuran masukan yang besar agar algoritma dapat berjalan lebih cepat.
