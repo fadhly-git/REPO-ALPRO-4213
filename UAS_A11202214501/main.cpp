@@ -2,6 +2,12 @@
 //a. proc mencetak data -
 //b. proc swap dengan pointer
 //c fungsi sum dengan rekursif
+//d. sort menggunakan rek dan pointer
+/*
+nama : fadhly rozaq
+nim : A11.2022.14501
+kelp : A11.4213
+*/
 
 #include <iostream>
 #include <cmath>
